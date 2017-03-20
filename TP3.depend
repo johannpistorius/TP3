@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1489054120 source:z:\c++\tp3\main.cpp
+	"header.h"
+	"point.cpp"
+	"set_char.cpp"
+
+1489054959 z:\c++\tp3\header.h
+
+1489054120 z:\c++\tp3\point.cpp
+	<iostream>
+
+1489055045 z:\c++\tp3\set_char.cpp
+	<iostream>
+
+1490048137 source:d:\school\iut\s4\c++\tp3\main.cpp
+	"header.h"
+	"point.cpp"
+	"point2.cpp"
+	"set_char.cpp"
+
+1490046840 d:\school\iut\s4\c++\tp3\header.h
+
+1489054120 d:\school\iut\s4\c++\tp3\point.cpp
+	<iostream>
+
+1490046953 d:\school\iut\s4\c++\tp3\point2.cpp
+	<iostream>
+	<stdio.h>
+	<cmath>
+
+1489055517 d:\school\iut\s4\c++\tp3\set_char.cpp
+	<iostream>
+
